@@ -7,3 +7,8 @@
 	font-family: 'Roboto', sans-serif;
 	font-weight: bold;
 }
+
+.btn-blue:hover {
+	background-color: #013220;
+	color: white;
+}
